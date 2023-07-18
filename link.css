@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+a:link,
+a:visited {
+  background-color: transparent;
+  color: #b300ff;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+button {
+  border: none;
+  background-color: rgb(0, 0, 0);
+  border-radius: 25px;
+  width: 470px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  display: block;
+  display: block;
+  margin-bottom: 30px;
+  font-size: 70px;
+  font-weight: bold;
+}
